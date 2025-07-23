@@ -31,7 +31,11 @@ Este projeto é um simples conversor de moedas criado com HTML, CSS e JavaScript
    Abra o arquivo index.html em seu navegador
 
    📷 Preview
-![Preview do conversor](assets/conversor-preview.png)
+![Preview do conversor](assets/conversor-preview.PNG)
+<p align="center">
+  <img src="assets/conversor-preview.PNG" width="400px">
+</p>
+
 
 📌 Observações
 Este projeto utiliza taxas de câmbio fixas (sem chamadas à API).
