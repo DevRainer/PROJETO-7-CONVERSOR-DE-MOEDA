@@ -42,6 +42,6 @@ Este projeto utiliza taxas de câmbio fixas (sem chamadas à API).
 
 Ideal para fins educacionais e prática com HTML/CSS/JS.
 
-🧠 Autor
+🧠 
 Desenvolvido por DevRainer ✨
 
